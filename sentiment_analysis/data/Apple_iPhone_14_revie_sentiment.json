@@ -1,0 +1,754 @@
+[
+    {
+        "text": "This is the iPhone 14, the new Vanilla model in Apple's yearly lineup.",
+        "start": 7587,
+        "end": 12237,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8001434803009033,
+        "speaker": null
+    },
+    {
+        "text": "Not a lot has changed since last year, and on top of that, the gap between the iPhone 14 and the Pro models is wider than ever.",
+        "start": 12387,
+        "end": 19867,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5041207075119019,
+        "speaker": null
+    },
+    {
+        "text": "So is this phone still a relevant choice?",
+        "start": 19990,
+        "end": 22167,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8423013687133789,
+        "speaker": null
+    },
+    {
+        "text": "I'm will for GSM Arena, and let's find out in our full review.",
+        "start": 22302,
+        "end": 25925,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8159282207489014,
+        "speaker": null
+    },
+    {
+        "text": "A new model with some incremental upgrades that's pretty much par for the course when it comes to the iPhones.",
+        "start": 30937,
+        "end": 36597,
+        "sentiment": "POSITIVE",
+        "confidence": 0.640969455242157,
+        "speaker": null
+    },
+    {
+        "text": "But just how incremental can we get?",
+        "start": 36792,
+        "end": 38752,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6425096392631531,
+        "speaker": null
+    },
+    {
+        "text": "It seems like we might find out with the new iPhone 14.",
+        "start": 38845,
+        "end": 42062,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5338891744613647,
+        "speaker": null
+    },
+    {
+        "text": "This year's Vanilla model gets a couple of features from last year's iPhone 13 Pro the A 15 Bionic chipset with a five core GPU and the main camera.",
+        "start": 42412,
+        "end": 51402,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7622705698013306,
+        "speaker": null
+    },
+    {
+        "text": "There is also a new selfie cam, which has autofocus.",
+        "start": 51582,
+        "end": 54662,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5988473296165466,
+        "speaker": null
+    },
+    {
+        "text": "Another new feature is that the internals have been rearranged so that the iPhone 14 is easier to service and repair.",
+        "start": 55162,
+        "end": 61632,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8735443353652954,
+        "speaker": null
+    },
+    {
+        "text": "There are a couple of additions when it comes to connectivity as well.",
+        "start": 61797,
+        "end": 64972,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.861552894115448,
+        "speaker": null
+    },
+    {
+        "text": "There's new Bluetooth Five, three and a regionspecific satellite connection that you can use to contact emergency services handy if you don't have network coverage.",
+        "start": 65080,
+        "end": 74462,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5256551504135132,
+        "speaker": null
+    },
+    {
+        "text": "And that's about it for the meaningful changes.",
+        "start": 74812,
+        "end": 77075,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8362295031547546,
+        "speaker": null
+    },
+    {
+        "text": "The compact design is exactly the same and is premium as ever, with IP 68 rated ingress protection against up to 6 meters of water.",
+        "start": 77887,
+        "end": 86152,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5673331618309021,
+        "speaker": null
+    },
+    {
+        "text": "Holding the phone in hand, you'd be hardpressed to tell if this is the new model or the old one.",
+        "start": 86320,
+        "end": 91417,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6739834547042847,
+        "speaker": null
+    },
+    {
+        "text": "It's not like the Pro models are breaking the mold this year either, but they do bring a new hyped up selfie cutout with extra functionality, and they also supported an Othon display for the first time on an iPhone.",
+        "start": 91615,
+        "end": 103227,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8289754390716553,
+        "speaker": null
+    },
+    {
+        "text": "It's too bad that we don't get anything new like that here.",
+        "start": 103332,
+        "end": 106100,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9382323622703552,
+        "speaker": null
+    },
+    {
+        "text": "Even just an upgrade of the screen refresh rate to match the Pros would have been awesome.",
+        "start": 106837,
+        "end": 110992,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8831539750099182,
+        "speaker": null
+    },
+    {
+        "text": "But no, it's still 60 Hz, and compared to most phones in this price segment, swiping and scrolling feels a bit choppy.",
+        "start": 111115,
+        "end": 118262,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5676228404045105,
+        "speaker": null
+    },
+    {
+        "text": "It remains a nice screen, though.",
+        "start": 118912,
+        "end": 120682,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8618780374526978,
+        "speaker": null
+    },
+    {
+        "text": "A six one inch OLED with a pixel density of 460 PPI and ceramic shield protection, this display is quite bright, achieving a maximum of about 800 nits with a brightness slider the same as last year.",
+        "start": 120760,
+        "end": 133687,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8870779871940613,
+        "speaker": null
+    },
+    {
+        "text": "Unlike the Pro models, there is no auto brightness boost beyond that, content on the iPhone 14 looks great too.",
+        "start": 133825,
+        "end": 140437,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9635226130485535,
+        "speaker": null
+    },
+    {
+        "text": "The panel is sharp, contrasty and colorful, and the color accuracy is excellent here.",
+        "start": 140575,
+        "end": 145942,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9783352017402649,
+        "speaker": null
+    },
+    {
+        "text": "There's also HDR Ten and Dolby vision support.",
+        "start": 146065,
+        "end": 148867,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5890255570411682,
+        "speaker": null
+    },
+    {
+        "text": "Of course, the notch cutout isn't the content of it, but that's expected here.",
+        "start": 149065,
+        "end": 153517,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.596764087677002,
+        "speaker": null
+    },
+    {
+        "text": "For audio, the iPhone X has a pair of stereo speakers with the earpiece doubling as the second one.",
+        "start": 153715,
+        "end": 159052,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6089174747467041,
+        "speaker": null
+    },
+    {
+        "text": "They sport very good loudness, and the sound quality is excellent, with great mids and highs and nice bass.",
+        "start": 159145,
+        "end": 165512,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9768157005310059,
+        "speaker": null
+    },
+    {
+        "text": "And for storage, you get your choice of 128, 256 or 512 gigs on board.",
+        "start": 172837,
+        "end": 178567,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8565670847892761,
+        "speaker": null
+    },
+    {
+        "text": "Last year's iPhones ran on the A 15 Bionic chipset, but they weren't all the same the Vanilla models had four GPU cores, while the Pro models had five cores.",
+        "start": 178765,
+        "end": 188232,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7409383058547974,
+        "speaker": null
+    },
+    {
+        "text": "That a 15 Bionic chip with five cores is being reused in the iPhone 14, and as you'd expect, it provides excellent benchmark performance on par with last year's iPhone 13 Pro.",
+        "start": 188397,
+        "end": 199267,
+        "sentiment": "POSITIVE",
+        "confidence": 0.950129508972168,
+        "speaker": null
+    },
+    {
+        "text": "There's an edge over the regular iPhone 13 when it comes to GPU tasks, but Cpuwise is quite similar.",
+        "start": 199465,
+        "end": 205642,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7526848316192627,
+        "speaker": null
+    },
+    {
+        "text": "And when it comes to thermal management, the iPhone 14 throttles its performance quite a bit with prolonged stress, but does so in a gradual way, without sudden dips that might cause hiccups or lag.",
+        "start": 205840,
+        "end": 216662,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5882638096809387,
+        "speaker": null
+    },
+    {
+        "text": "The iPhone 14 has a 3279 mah battery capacity, as opposed to 3240, and the iPhone 13 it's basically the same thing.",
+        "start": 217612,
+        "end": 227675,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6420358419418335,
+        "speaker": null
+    },
+    {
+        "text": "We did, however, measure an increase in the screen on time with the iPhone 14, but the overall endurance rating was similar at 90 hours.",
+        "start": 228037,
+        "end": 235700,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5292380452156067,
+        "speaker": null
+    },
+    {
+        "text": "Once again, there is no charger bundled with the new iPhones, and you'd have to get your own.",
+        "start": 237112,
+        "end": 241492,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.47528427839279175,
+        "speaker": null
+    },
+    {
+        "text": "This is where you green.",
+        "start": 241615,
+        "end": 242887,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7181819677352905,
+        "speaker": null
+    },
+    {
+        "text": "The sponsor of this video comes in if your phone doesn't ship with a charger, don't be left with an old thing you found under the couch.",
+        "start": 242950,
+        "end": 250047,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5571284294128418,
+        "speaker": null
+    },
+    {
+        "text": "The you green Nexode 140 watt charger can top up your devices at maximum speed because it fully complies to the power delivery three one protocol with a PPS, it's safe to use with safeguards to preserve your battery and to prevent overheating.",
+        "start": 250167,
+        "end": 265782,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8052543997764587,
+        "speaker": null
+    },
+    {
+        "text": "Using this charger, we clocked 60% of the battery on the iPhone 14 in 30 minutes, which is just as fast as if you were using Apple's own 20 watt charger, and for some reason a bit faster than the previous iPhone 13.",
+        "start": 265947,
+        "end": 278012,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9535158276557922,
+        "speaker": null
+    },
+    {
+        "text": "But this charger isn't just for smartphones.",
+        "start": 278437,
+        "end": 280632,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.75177001953125,
+        "speaker": null
+    },
+    {
+        "text": "It also works with laptops like the MacBook, and thanks to multiple ports, you can charge more than one device at the same time.",
+        "start": 280722,
+        "end": 287887,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8920224905014038,
+        "speaker": null
+    },
+    {
+        "text": "We'll make sure to put a link to the charger down in the video description below.",
+        "start": 288025,
+        "end": 291442,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8126420974731445,
+        "speaker": null
+    },
+    {
+        "text": "Now back to our review.",
+        "start": 291565,
+        "end": 293075,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7695247530937195,
+        "speaker": null
+    },
+    {
+        "text": "Let's talk about the interface apple's new iOS 16.",
+        "start": 293662,
+        "end": 297357,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7428050637245178,
+        "speaker": null
+    },
+    {
+        "text": "It's not a groundbreaking update over iOS 15, but there are a few changes worth mentioning.",
+        "start": 297522,
+        "end": 302462,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6681262254714966,
+        "speaker": null
+    },
+    {
+        "text": "The lock screen doesn't double as an always on display here, but it brings a few refinements.",
+        "start": 302962,
+        "end": 307497,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8093218207359314,
+        "speaker": null
+    },
+    {
+        "text": "It houses your notifications, which swipe up from the bottom.",
+        "start": 307617,
+        "end": 310852,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8343893885612488,
+        "speaker": null
+    },
+    {
+        "text": "There's Widget support, and you can customize several different layouts for the lock screen and switch between them on the fly.",
+        "start": 311020,
+        "end": 317612,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6353662610054016,
+        "speaker": null
+    },
+    {
+        "text": "The lock screen layouts can also be linked directly to specific focus profiles or within Settings.",
+        "start": 318562,
+        "end": 324297,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8951800465583801,
+        "speaker": null
+    },
+    {
+        "text": "In each profile, you can set up his preferred lockscreen.",
+        "start": 324342,
+        "end": 327137,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8981794714927673,
+        "speaker": null
+    },
+    {
+        "text": "The focus profiles are already there to filter your messages and notifications, but now they can even connect to your mail and messaging apps to filter them right from the source.",
+        "start": 327937,
+        "end": 336887,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8194229602813721,
+        "speaker": null
+    },
+    {
+        "text": "And plenty of apps have seen upgrades, including FaceTime and the Wallet app, among many others.",
+        "start": 337462,
+        "end": 342575,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7867829203605652,
+        "speaker": null
+    },
+    {
+        "text": "Finally, let's go over the cameras.",
+        "start": 342937,
+        "end": 344862,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6952961087226868,
+        "speaker": null
+    },
+    {
+        "text": "The twelve megapixel main cam is the same as the iPhone 13 Pros, and compared to the vanilla 13, has a brighter aperture and larger pixels.",
+        "start": 344937,
+        "end": 352842,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6648119688034058,
+        "speaker": null
+    },
+    {
+        "text": "The twelve megapixel Ultrawide cam is identical to the one on the previous model.",
+        "start": 352977,
+        "end": 356900,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8752393126487732,
+        "speaker": null
+    },
+    {
+        "text": "This year Apple also brings an update to the HDR image stacking tag, where before it was called DeepFusion, now it's the photonic engine.",
+        "start": 357712,
+        "end": 365602,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6733900308609009,
+        "speaker": null
+    },
+    {
+        "text": "Anyway, in daylight.",
+        "start": 365770,
+        "end": 367092,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7882671356201172,
+        "speaker": null
+    },
+    {
+        "text": "The twelve megapixel photos from the maincam are great and typical for an iPhone.",
+        "start": 367152,
+        "end": 371562,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9825853109359741,
+        "speaker": null
+    },
+    {
+        "text": "There's plenty of detail, low noise, and naturallooking colors.",
+        "start": 371712,
+        "end": 375612,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8516220450401306,
+        "speaker": null
+    },
+    {
+        "text": "Dynamic range is good, but not too wide, as we've observed on previous iPhones.",
+        "start": 375762,
+        "end": 381297,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8516403436660767,
+        "speaker": null
+    },
+    {
+        "text": "Fine details like foliage have an unnatural overprocessed look that not everyone is a fan of, and compared to the iPhone 13, the main cameras on both phones produce remarkably similar photos.",
+        "start": 381417,
+        "end": 393512,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5288753509521484,
+        "speaker": null
+    },
+    {
+        "text": "Portrait shots from the main cam are very competent, the subject detection and separation are nearly perfect, and the background bokeh is convincing.",
+        "start": 395362,
+        "end": 403562,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9629956483840942,
+        "speaker": null
+    },
+    {
+        "text": "Twelve megapixel photos from the Ultrawide camera are pretty wide, and there's a solid amount of detail, good contrast, and accurate colors.",
+        "start": 405412,
+        "end": 412992,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9474808573722839,
+        "speaker": null
+    },
+    {
+        "text": "Like the main camera, the dynamic range is balanced but not too wide.",
+        "start": 413127,
+        "end": 416697,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6254299283027649,
+        "speaker": null
+    },
+    {
+        "text": "Unlike some of the other recent iPhones, there's no autofocus on this camera, and that means you can't use it to shoot macro closeups.",
+        "start": 416892,
+        "end": 423437,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5143007636070251,
+        "speaker": null
+    },
+    {
+        "text": "When shooting with the main camera in low light conditions, an automatic night mode will kick in, and it generally does a great job.",
+        "start": 423937,
+        "end": 430207,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9077419638633728,
+        "speaker": null
+    },
+    {
+        "text": "The photos are clean looking and detailed with well controlled light sources.",
+        "start": 430360,
+        "end": 434577,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9372748732566833,
+        "speaker": null
+    },
+    {
+        "text": "Dark areas also contain plenty of detail as well.",
+        "start": 434757,
+        "end": 438125,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6550874710083008,
+        "speaker": null
+    },
+    {
+        "text": "Despite having a brighter main camera lens in the new photonic engine, the iPhone XIV's lowlight photos are very similar in quality to those from the iPhone XII.",
+        "start": 438862,
+        "end": 446997,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7675384283065796,
+        "speaker": null
+    },
+    {
+        "text": "The most notable upgrade was that the overall capture time was much faster on the new model.",
+        "start": 447117,
+        "end": 451567,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9479801654815674,
+        "speaker": null
+    },
+    {
+        "text": "Lowlight photos taken with the Ultrawide cam also make use of the autonet mode.",
+        "start": 451765,
+        "end": 456162,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8111061453819275,
+        "speaker": null
+    },
+    {
+        "text": "The images have balanced exposure and nicely saturated colors, but they still remain on the soft and noisy side onto the twelve megapixel selfies, and they are excellent.",
+        "start": 456237,
+        "end": 466677,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9632006883621216,
+        "speaker": null
+    },
+    {
+        "text": "The detail level is great, and the skin texture and colors look very natural.",
+        "start": 466782,
+        "end": 471237,
+        "sentiment": "POSITIVE",
+        "confidence": 0.983697235584259,
+        "speaker": null
+    },
+    {
+        "text": "There's low noise and the contrast and dynamic ranger praiseworthy too.",
+        "start": 471387,
+        "end": 475327,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8265864253044128,
+        "speaker": null
+    },
+    {
+        "text": "And the iPhone 14 has phase detection autofocus, which is quite reliable.",
+        "start": 475420,
+        "end": 479837,
+        "sentiment": "POSITIVE",
+        "confidence": 0.939271867275238,
+        "speaker": null
+    },
+    {
+        "text": "The iPhone 14 can record video in up to four KS 60 FPS with any of its three cameras, and all modes also feature an expanded dynamic range.",
+        "start": 480337,
+        "end": 488892,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7320089340209961,
+        "speaker": null
+    },
+    {
+        "text": "Thanks to the smart HDR, 4K videos from the selfie cam are awesome.",
+        "start": 488952,
+        "end": 493267,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9869464039802551,
+        "speaker": null
+    },
+    {
+        "text": "They're very clean and detailed, with nice looking textures and skin tones.",
+        "start": 493390,
+        "end": 497202,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9742582440376282,
+        "speaker": null
+    },
+    {
+        "text": "The stabilization could be better, but the bigger bumps and shakes are still handled well.",
+        "start": 497307,
+        "end": 501725,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6308419108390808,
+        "speaker": null
+    },
+    {
+        "text": "4k videos from the main camera are excellent.",
+        "start": 502162,
+        "end": 504807,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9652416110038757,
+        "speaker": null
+    },
+    {
+        "text": "There's plenty of detail, vibrant yet true to life colors, and solid dynamic range.",
+        "start": 504897,
+        "end": 509577,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9230421781539917,
+        "speaker": null
+    },
+    {
+        "text": "We have no complaints whatsoever.",
+        "start": 509682,
+        "end": 511562,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.48980700969696045,
+        "speaker": null
+    },
+    {
+        "text": "The 4K videos from the Ultrawide camera are equally brilliant.",
+        "start": 512362,
+        "end": 515832,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9705596566200256,
+        "speaker": null
+    },
+    {
+        "text": "They excel in everything and have to be among the most detailed we've seen as far as Ultrawide cameras go.",
+        "start": 515922,
+        "end": 521675,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9437546133995056,
+        "speaker": null
+    },
+    {
+        "text": "The iPhone 14 has excellent stabilization all around.",
+        "start": 522487,
+        "end": 525982,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9717329144477844,
+        "speaker": null
+    },
+    {
+        "text": "There's optional EIS for all of its cameras, and the main one also gets the benefit of Ois.",
+        "start": 526135,
+        "end": 531212,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5816730260848999,
+        "speaker": null
+    },
+    {
+        "text": "Plus there's a new action mode, which offers an extra smooth effect at the cost of some resolution and a narrower field of view.",
+        "start": 532312,
+        "end": 539167,
+        "sentiment": "POSITIVE",
+        "confidence": 0.758956789970398,
+        "speaker": null
+    },
+    {
+        "text": "It does a splendid job.",
+        "start": 539290,
+        "end": 541025,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8683654069900513,
+        "speaker": null
+    },
+    {
+        "text": "So that's the iPhone XIV you get a compact form factor and the high quality you expect from an iPhone, and that pretty much sums it up.",
+        "start": 542812,
+        "end": 550747,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7881523370742798,
+        "speaker": null
+    },
+    {
+        "text": "Actually, there is auto focus on the selfiecam now, which is nice, but the other changes are small and hardly noticeable.",
+        "start": 550780,
+        "end": 557487,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6732514500617981,
+        "speaker": null
+    },
+    {
+        "text": "You don't even get the signature new look of the iPhone 14 generation with a dynamic island or the new Huawei on display.",
+        "start": 557637,
+        "end": 564702,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5387170910835266,
+        "speaker": null
+    },
+    {
+        "text": "Overall, I would call the iPhone 14 more of a refresh than an actual upgrade.",
+        "start": 564882,
+        "end": 568932,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5852093696594238,
+        "speaker": null
+    },
+    {
+        "text": "And while it is a great phone, you can save some money by getting the iPhone 13 without sacrificing that much.",
+        "start": 569022,
+        "end": 574850,
+        "sentiment": "POSITIVE",
+        "confidence": 0.919523298740387,
+        "speaker": null
+    },
+    {
+        "text": "Thanks for watching, guys, and see you on the next one.",
+        "start": 575287,
+        "end": 577425,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9662566184997559,
+        "speaker": null
+    }
+]
